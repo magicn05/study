@@ -1,7 +1,7 @@
-﻿#include <iostream>
+#include <iostream>
 #include <algorithm>
 #include <sstream>
-
+#include <string>
 template <typename T>
 class dynamic_array
 {
