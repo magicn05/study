@@ -1,0 +1,8 @@
+Banana perm 2500000
+Charels temp 85000 25
+Kim perm 5500000
+Peter temp 90000 15
+Park cont 2000000 3000000 20
+Lee cont 3000000 3000000 10
+Tomas perm 1950000
+David temp 70000 20
