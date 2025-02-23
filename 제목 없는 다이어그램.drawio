@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="페이지-1" id="mMkZMiQ4F0iWtYVCCCqO">
-    <mxGraphModel dx="1560" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,64 @@
         </mxCell>
         <mxCell id="SkWBidW6LFVZDPABoNmp-7" value="아래는 그냥 외워서 쓰는 만병 통치 C++ string Parsing Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="690" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-1" target="HJY0EmYQhFJxz8OR9ccl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-1" value="login" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-6" target="HJY0EmYQhFJxz8OR9ccl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-6" value="succeed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-8" value="request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-6" target="HJY0EmYQhFJxz8OR9ccl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="230" />
+              <mxPoint x="1320" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-9" target="HJY0EmYQhFJxz8OR9ccl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-9" value="system&amp;nbsp;&lt;div&gt;이평 20일&lt;div&gt;기준&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-20" value="request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-17" target="HJY0EmYQhFJxz8OR9ccl-9">
+          <mxGeometry x="0.0833" relative="1" as="geometry">
+            <mxPoint x="1280" y="515" as="sourcePoint" />
+            <mxPoint x="1300" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="510" />
+              <mxPoint x="1340" y="410" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-17" target="HJY0EmYQhFJxz8OR9ccl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-17" value="succeed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-19" target="HJY0EmYQhFJxz8OR9ccl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-19" value="날짜별로&lt;div&gt;저장&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-26" value="database 찾아서 5일연동 이평 조건에 만족하는 index" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJY0EmYQhFJxz8OR9ccl-28" target="HJY0EmYQhFJxz8OR9ccl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJY0EmYQhFJxz8OR9ccl-28" value="&lt;div&gt;local&lt;/div&gt;db open" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
